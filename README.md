@@ -119,7 +119,7 @@ Schedule day 2:
 > 3. Apply basic Git operations (e.g., staging, committing, pushing) to work effectively with local and remote repositories.
 > 4. Implement branching and pull request workflows to collaborate with others on shared codebases.
 > 5. Interpret Git logs and history to understand project evolution and troubleshoot issues.
-Collaborate with other people in your project.]
+> 6. Collaborate with other people in your project.
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 16 hours (2 days)
 >
@@ -210,16 +210,19 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
+  "description": "track the versions of your code and your documentation, make your research more reproducible and more impactifull",
+  "keywords": "FAIR, Reproducibility, RDM, code, data analysis",
+  "name": "Versioning code and documentation with Git & GitHub",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "educationalLevel": "beginner",
-  "competencyRequired": "none",
+  "competencyRequired": "Unix command line basic knowledge",
   "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+    "1. Configure Git on a local machine to prepare for version control in research projects.",
+    "2. Create and manage repositories using Git commands to track changes and maintain project history.",
+    "3. Apply basic Git operations (e.g., staging, committing, pushing) to work effectively with local and remote repositories.",
+    "4. Implement branching and pull request workflows to collaborate with others on shared codebases.",
+    "5. Interpret Git logs and history to understand project evolution and troubleshoot issues.",
+    "6. Collaborate with other people in your project."
   ],
   "audience": "training providers",
   "inLanguage": "en-US",
@@ -233,26 +236,16 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
     },
     {
       "@type": "Person",
-      "name": "Olivier Sand"
+      "name": "James Collier"
     },
     {
       "@type": "Person",
       "name": "Alexander Botzki"
     }
-  ],
-  "contributor": [
-    {
+     {
       "@type": "Person",
-      "name": "Yasmine Maes"
-    },
-    {
-      "@type": "Person",
-      "name": "Finn Bacall"
-    },
-    {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
+      "name": "Tuur Muyldermans"
     }
-  ]
+  ],
 }
 ```
