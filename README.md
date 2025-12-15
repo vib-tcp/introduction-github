@@ -1,4 +1,5 @@
 <!--
+
 author:   Bruna Piereck, Alexander Botzki, James Collier, Tuur Muyldermans
 email:    trainingandconferences@vib.be
 version:  2.0.0
@@ -26,7 +27,8 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 
 @orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
-@edition:  10th 
+@edition: 10th 
+
 @CourseTitle: Versioning code and documentation with Git & GitHub
 
 @JSONLD
@@ -44,6 +46,7 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
   // it is not shown or rendered within LiaScript
   console.debug("added json to head")
 </script>
+
 @end
 
 -->
@@ -87,10 +90,9 @@ Schedule day 2:
 10h30 - Coffee break 
 10h30 - Experimenting Risk Free: Working with Branchs
 12h30 - Lunch 
-13h00 - Branchs: changing old versions 
+13h00 - Tagging & Forking  
 15h00 - Coffee break 
-15h00 - Tagging & Forking  
-16h00 - Using the browser
+15h00 - Using the browser 
 17h00 - End of the day 
 
 </section>
@@ -99,7 +101,7 @@ Schedule day 2:
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
-> [<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/logos/CC-by.png" title="" alt="" width="100">]
+> [<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/logos/CC-by.png" title="" alt="" width="80">](https://creativecommons.org/licenses/by/4.0/)
 >
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
 >
@@ -119,7 +121,7 @@ Schedule day 2:
 > 3. Apply basic Git operations (e.g., staging, committing, pushing) to work effectively with local and remote repositories.
 > 4. Implement branching and pull request workflows to collaborate with others on shared codebases.
 > 5. Interpret Git logs and history to understand project evolution and troubleshoot issues.
-Collaborate with other people in your project.]
+> 6. Collaborate with other people in your project.
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 16 hours (2 days)
 >
@@ -153,7 +155,7 @@ Authors
 
 Please cite as:
 
-  1. ...
+  1. to be added soon ...
 
 # Chapters List
 
@@ -210,16 +212,19 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
+  "description": "track the versions of your code and your documentation, make your research more reproducible and more impactifull",
+  "keywords": "FAIR, Reproducibility, RDM, code, data analysis",
+  "name": "Versioning code and documentation with Git & GitHub",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "educationalLevel": "beginner",
-  "competencyRequired": "none",
+  "competencyRequired": "Unix command line basic knowledge",
   "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+    "1. Configure Git on a local machine to prepare for version control in research projects.",
+    "2. Create and manage repositories using Git commands to track changes and maintain project history.",
+    "3. Apply basic Git operations (e.g., staging, committing, pushing) to work effectively with local and remote repositories.",
+    "4. Implement branching and pull request workflows to collaborate with others on shared codebases.",
+    "5. Interpret Git logs and history to understand project evolution and troubleshoot issues.",
+    "6. Collaborate with other people in your project."
   ],
   "audience": "training providers",
   "inLanguage": "en-US",
@@ -233,26 +238,16 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
     },
     {
       "@type": "Person",
-      "name": "Olivier Sand"
+      "name": "James Collier"
     },
     {
       "@type": "Person",
       "name": "Alexander Botzki"
     }
-  ],
-  "contributor": [
-    {
+     {
       "@type": "Person",
-      "name": "Yasmine Maes"
-    },
-    {
-      "@type": "Person",
-      "name": "Finn Bacall"
-    },
-    {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
+      "name": "Tuur Muyldermans"
     }
-  ]
+  ],
 }
 ```
