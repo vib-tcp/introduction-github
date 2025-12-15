@@ -123,12 +123,12 @@ Collaborate with other people in your project.]
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 16 hours (2 days)
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the chapter ["Get ready"](./tutorials/1_Get_ready_for_the_course/tutorial.md).
+> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the chapter ["Get ready"](./docs/tutorials/1_Get_ready_for_the_course/tutorial.md).
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises](./docs/exercises/)
-> 2. [Slides](./docs/)  
+> 2. [Slides](./docs/presentation/)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -157,27 +157,21 @@ Please cite as:
 
 # Chapters List
 
-| Chapter | Title                                                   |
-| :---- | :------------------------------------------------         |
-| 0     | [Chapters summary](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/Git_modules.md#1)    |
-| 1     | [Chapter title](link)                                             |
-| 2     | [Chapter title](link)                                             |
-| 3     | [Chapter title](link)                                             |
+| Chapter | Title                                                           |
+| :---- | :------------------------------------------------                 |
+| 0     | [Chapters summary render](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/Git_modules.md#1)    |
+| 1     | [Get Ready](./docs/tutorials/1_Get_ready_for_the_course/)         |
+| 2     | [Inroduction](./docs/tutorials/2_introduction/)                   |
+| 3     | [Getting started](./docs/tutorials/3_getting_started/)            |
+| 4     | [Time travel](./docs/tutorials/4_time-travel_my_versions/)        |
+| 5     | [From git to GitHub](./docs/tutorials/5_Connecting_2_GitHub/)     |
+| 6     | [.gitingore & README files](./docs/tutorials/6_gitignore&README/) |
+| 7     | [Collaborating](./docs/tutorials/7_collaborating_GitHub/)         |
+| 8     | [Branchs](./docs/tutorials/8_branches/)                           |
+| 9     | [Forks](./docs/tutorials/9_forks/)                                |
+| 10    | [Git aliases](./docs/tutorials/10_Git_aliases/)                   |
+| 11    | [GitHub & Rstudio](./docs/tutorials/11_github_rstudio/)           |
 
-
-# References
-
-Here are some great tips for learning and to get inspired for writing your own pipelines:
-
-- Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
-- Reach out to the community on Slack ([link](https://www.nextflow.io/slack-invite.html))
-- Curated collection of patterns ([link](https://github.com/nextflow-io/patterns))
-- Workshop focused on DSL2 developed by CRG Bioinformatics Core ([link](https://github.com/biocorecrg/ELIXIR_containers_nextflow))
-- Tutorial exercises (DSL1) developed by Seqera ([link](https://github.com/seqeralabs/nextflow-tutorial))
-- Curated ready-to-use analysis pipelines by NF-core ([link](https://nf-co.re/))
-- Model example pipeline on Variant Calling Analysis with NGS RNA-Seq data developed by CRG ([link](https://github.com/CRG-CNAG/CalliNGS-NF))
-- Tutorial by Andrew Severin ([link](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0))
-- Nextflow community basic training ([link](https://training.nextflow.io/basic_training/))
 
 # About us
 
