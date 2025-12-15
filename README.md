@@ -262,9 +262,3 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
-
-
-## Complementary reading (Tutorials)
-
-Check some [**chapters**](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/Git_modules.md#1) with complementary reading.
-You will *review* what you saw in the course and get *some extra* tips and information, such as using Rstudio on GitHub.
