@@ -46,7 +46,9 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
   // it is not shown or rendered within LiaScript
   console.debug("added json to head")
 </script>
+
 @end
+
 -->
 
 # @CourseTitle
