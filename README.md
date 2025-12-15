@@ -1,4 +1,5 @@
 <!--
+
 author:   Bruna Piereck, Alexander Botzki, James Collier, Tuur Muyldermans
 email:    trainingandconferences@vib.be
 version:  2.0.0
@@ -26,7 +27,8 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 
 @orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
-@edition:  10th 
+@edition: 10th 
+
 @CourseTitle: Versioning code and documentation with Git & GitHub
 
 @JSONLD
@@ -45,7 +47,6 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
   console.debug("added json to head")
 </script>
 @end
-
 -->
 
 # @CourseTitle
