@@ -90,10 +90,9 @@ Schedule day 2:
 10h30 - Coffee break 
 10h30 - Experimenting Risk Free: Working with Branchs
 12h30 - Lunch 
-13h00 - Branchs: changing old versions 
+13h00 - Tagging & Forking  
 15h00 - Coffee break 
-15h00 - Tagging & Forking  
-16h00 - Using the browser
+15h00 - Using the browser 
 17h00 - End of the day 
 
 </section>
@@ -102,7 +101,7 @@ Schedule day 2:
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
-> [<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/logos/CC-by.png" title="" alt="" width="100">]
+> [<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/logos/CC-by.png" title="" alt="" width="80">](https://creativecommons.org/licenses/by/4.0/)
 >
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
 >
@@ -156,7 +155,7 @@ Authors
 
 Please cite as:
 
-  1. ...
+  1. to be added soon ...
 
 # Chapters List
 
