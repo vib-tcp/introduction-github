@@ -51,7 +51,7 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 
 -->
 
-# Versioning code and documentation with Git & GitHub
+# @CourseTitle
 
 <section>
 
