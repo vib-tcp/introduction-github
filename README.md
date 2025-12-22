@@ -25,7 +25,7 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
 
-@orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
+@orcid: [@0](@1)<!--class="orcid-logo-for-author-list"
 
 @edition: 10th 
 
@@ -48,7 +48,6 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 </script>
 
 @end
-
 -->
 
 # @CourseTitle
