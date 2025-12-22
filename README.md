@@ -48,8 +48,7 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 
 -->
 
-
-# @CourseTitle
+# Versioning code and documentation with Git & GitHub
 
 <section>
 
@@ -73,25 +72,39 @@ We will introduce you to this free and open source distributed version-control s
 
 Schedule day 1:
 
-09h30 - Configurations & Introduction 
-11h00 - Coffee break  
-11h15 - Routine usage part 1 (status-stage-commit) 
-13h00 - Lunch 
-14h00 - History & Comparing Versions 
-14h40 - Coffee break   
-14h55 - Collaborating in GitHub  
-17h00 - End of the day  
+* 09h30 - Configurations & Introduction
+
+* 11h00 - Coffee break  
+
+* 11h15 - Routine usage part 1 (status-stage-commit) 
+
+* 13h00 - Lunch 
+
+* 14h00 - History & Comparing Versions 
+
+* 14h40 - Coffee break   
+
+* 14h55 - Collaborating in GitHub  
+
+* 17h00 - End of the day  
 
 Schedule day 2:
 
-09h30 - Solving Conflicts 
-10h30 - Coffee break 
-10h30 - Experimenting Risk Free: Working with Branchs
-12h30 - Lunch 
-13h00 - Tagging & Forking  
-15h00 - Coffee break 
-15h00 - Using the browser 
-17h00 - End of the day 
+* 09h30 - Solving Conflicts 
+
+* 10h30 - Coffee break 
+
+* 10h30 - Experimenting Risk Free: Working with Branchs
+
+* 12h30 - Lunch 
+
+* 13h00 - Tagging & Forking  
+
+* 15h00 - Coffee break 
+
+* 15h00 - Using the browser 
+
+* 17h00 - End of the day 
 
 </section>
 
@@ -140,7 +153,7 @@ Schedule day 2:
 > <i class="fa fa-anchor"></i> **PURL**:  
 
 
-# Authors and Contributors
+## Authors and Contributors
 
 Authors
 
