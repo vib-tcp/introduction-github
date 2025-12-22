@@ -244,7 +244,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
       "@type": "Person",
       "name": "Alexander Botzki"
     }
-     {
+    {
       "@type": "Person",
       "name": "Tuur Muyldermans"
     }
