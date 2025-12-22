@@ -170,9 +170,9 @@ Please cite as:
 
 # Chapters List
 
-## 1. Get Ready for the course [🔗](https://liascript.github.io/course/?https://github.com/vibbits/introduction-github/blob/master/tutorials/1_Get_ready_for_the_course/tutorial.md)
+## 1. Get Ready for the course [🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/01_Get_ready_for_the_course.md#1)
 
-[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/192d9178ab16af65b9f743d096ce3e9c0ed60133/images/help!.svg" width="200"/>](https://liascript.github.io/course/?https://github.com/vibbits/introduction-github/blob/master/tutorials/1_Get_ready_for_the_course.md)
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/192d9178ab16af65b9f743d096ce3e9c0ed60133/images/help!.svg" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/01_Get_ready_for_the_course.md#1)
 
 
 ## 2. Introduction [🔗](https://liascript.github.io/course/?https://github.com/vibbits/introduction-github/blob/master/tutorials/2_introduction.md)
