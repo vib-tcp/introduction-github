@@ -158,8 +158,8 @@ Schedule day 2:
 Authors
 
 - @[orcid(Bruna Piereck)](http://orcid.org/00000-0001-5958-0669)
-- @[orcid(Tuur Muyldermans)](http://orcid.org/0000-0002-3926-7293)
 - @[orcid(James Collier)](http://orcid.org/0000-0002-0020-421X)
+- @[orcid(Tuur Muyldermans)](http://orcid.org/0000-0002-3926-7293)
 - @[orcid(Alexander Botxki)](http://orcid.org/0000-0001-6691-4233)
 
 ## Citing this lesson
@@ -170,20 +170,129 @@ Please cite as:
 
 # Chapters List
 
-| Chapter | Title                                                           |
-| :---- | :------------------------------------------------                 |
-| 0     | [Chapters summary render](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/Git_modules.md#1)    |
-| 1     | [Get Ready](./docs/tutorials/1_Get_ready_for_the_course/)         |
-| 2     | [Inroduction](./docs/tutorials/2_introduction/)                   |
-| 3     | [Getting started](./docs/tutorials/3_getting_started/)            |
-| 4     | [Time travel](./docs/tutorials/4_time-travel_my_versions/)        |
-| 5     | [From git to GitHub](./docs/tutorials/5_Connecting_2_GitHub/)     |
-| 6     | [.gitingore & README files](./docs/tutorials/6_gitignore&README/) |
-| 7     | [Collaborating](./docs/tutorials/7_collaborating_GitHub/)         |
-| 8     | [Branchs](./docs/tutorials/8_branches/)                           |
-| 9     | [Forks](./docs/tutorials/9_forks/)                                |
-| 10    | [Git aliases](./docs/tutorials/10_Git_aliases/)                   |
-| 11    | [GitHub & Rstudio](./docs/tutorials/11_github_rstudio/)           |
+## [1. Get Ready for the course](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/01_Get_ready_for_the_course.md#1) 
+
+In this chapter you will find the step-by-step of what you need to get ready for this course. You will be guided in installing all tools that will be used and find a link to practice a bit of UNIX/LINUX command line before you join the course. 
+
+There are preparation steps for all, Windows, Linux and Mac computers. 
+
+Most things you need to get installed before hands, one or the other are optional tools to help with visualization and for somethings you can ask the trainer by mail or arriving 30 min before the class starts.
+
+[click here 🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/01_Get_ready_for_the_course.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/192d9178ab16af65b9f743d096ce3e9c0ed60133/images/help!.svg" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/01_Get_ready_for_the_course.md#1)
+
+
+## [2. Introduction ](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/02_introduction.md#1)
+
+Find out the differences between Git and GitHub why reflecting into versioning your documents and codes. Why is Git in several cases the best approach for versioniung?
+
+[click here 🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/02_introduction.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/8fc0d7c978044944c18f6e85e25aa2961af13a32/images/git_diff_github.svg" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/02_introduction.md#1)
+
+## [3. Get started with Git](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/03_getting_started.md#1) 
+
+Understand how Git is structured to use in your favor when debugging. Onve you have that you can make your first commit, learn the basic routine to get one version saved and managed with Git. With all that in place you have learned the basic routine of Git and can use to basic projects.
+
+__
+
+[click here 🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/03_getting_started.md#1)
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/ab984e5abf41d29cd68a2ef732cfb5e8bd41d87d/images/Git-logo-black.svg" width="150"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/03_getting_started.md#1)
+
+
+## [4. A travel in Time: Check your versions](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/04_time-travel_my_versions.md#1)
+
+Go a bit beyond to be able to see old versions and compare with the current one. You can list all versions to remember what has been changed, check among all the files in your dev. area if they need some version update or simply compare. You are moving towards becoming more confident and using some of the power of Git.
+
+[click here🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/04_time-travel_my_versions.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/c67c73b703dd8df3b51e9ef79d220abd70215032/images/images_tutorial/DeLorean_back.svg" width="150"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/04_time-travel_my_versions.md#1)
+
+
+## [5. Connect to GitHub](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/05_Connecting_2_GitHub.md#1)
+
+Connect your local repository to GitHub, make a remote backup of all your versions. Your commands routine will have a few steps added to keep it all in sync. This step will move you foward to also be able to collaborate with your colleages. 
+
+ [click here🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/05_Connecting_2_GitHub.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/class-act.png" width="150"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/05_Connecting_2_GitHub.md#1)
+
+
+## [6. READM & .gitignore - Importante files](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/06_gitignore%26README.md#1)
+
+GitHub is not about intuition, is about concient choices and clear messages. Learn about README files and .gitignore files. They will make all the difference in the organization of your repositories. These are essential for a good project development.
+
+[click here🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/06_gitignore%26README.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/8fc7c9dfd9497984d3031e267658c7bf052db913/images/git_files.svg" width="150"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/06_gitignore%26README.md#1)
+
+
+## 7. [Collaborting](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/07_collaborating_GitHub.md#1)
+
+Start a collaboration and develop together with your colleagues. As in real life, git projects and collaborations can lead to some conflicts. If both have to work in the same file, or different ideas need to be tested. Do not worry!!! In this chapter we teach you how to start the collaboration, best practices when working in a team and last but not least ... HOW TO SOLVE CONFLICTS! Only in Git, ofcourse.
+
+[click here🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/07_collaborating_GitHub.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/benevocats.png" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/07_collaborating_GitHub.md#1)
+
+
+## [8. Branchs](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/08_branches.md#1)
+
+To work in collaboration or experiment new code or documentation desing you can creat parallel developing areas. Learn more about the application of Branchs, how to create, delete and merge them. This is a great resource to avoid breaking the working version of your project or even to just test a new idea. This step wil take you to the next level when working with and GitHub. It will add more flexibility, more organization and garantee that you can always have a functional version of your code.
+
+[click here🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/08_branches.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/548d204f4613b52f5fb95e80168c34baa69f0286/images/branch_basic.svg" width="130"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/08_branches.md#1)
+
+
+## [9. Forks](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/09_forks.md#1)
+
+You find a nice repo that you want to work on a new idea, or you want your collaborators to work separatelly before their changed is reviewd and approved for merging. Here it is an strategy for you. Forking adds a layer for a reviewer, and also allows you to start a personal project from someone elses project. Take a look to learn more about this interesting resource.
+
+[click here🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/09_forks.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/forktocat.jpg" width="230"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/09_forks.md#1)
+
+
+## [10. Aliases](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/10_Git_aliases.md#1)
+
+Create commans shortcut for your favorite commands, simply your commands routine by creating your own commands.
+
+[click here🔗](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/10_Git_aliases.md#1)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/39cd4a64d2e4ad573cba1fc8283ad2b25b755ab7/images/git_aliases.svg" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/10_Git_aliases.md#1)
+
+
+## [11. GitHub & Rstudio](https://github.com/vib-tcp/introduction-github/blob/BP_addtemplatFormating/docs/tutorials/11_github_rstudio.md)
+
+A big developer of R ? 
+Integrate Git, GitHub and RStudio. Develope all your project in one platform and take advantage of the ready to use  buttons avoiding extra command line. 
+
+[click here 🔗](https://github.com/vib-tcp/introduction-github/blob/BP_addtemplatFormating/docs/tutorials/11_github_rstudio.md)
+
+__
+
+[<img src="https://raw.githubusercontent.com/vibbits/introduction-github/master/images/images_tutorial/rstudio-1.PNG" width="200"/>](https://github.com/vib-tcp/introduction-github/blob/BP_addtemplatFormating/docs/tutorials/11_github_rstudio.md)
 
 
 # About us
