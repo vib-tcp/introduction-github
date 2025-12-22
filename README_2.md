@@ -121,3 +121,81 @@ Please cite as:
 | 9     | [Forks](./docs/tutorials/9_forks/)                                |
 | 10    | [Git aliases](./docs/tutorials/10_Git_aliases/)                   |
 | 11    | [GitHub & Rstudio](./docs/tutorials/11_github_rstudio/)           |
+
+
+# About us
+
+*About ELIXIR Training Platform*
+
+The ELIXIR Training Platform was established to develop a training community that spans all ELIXIR member states (see the list of Training Coordinators). It aims to strengthen national training programmes, grow bioinformatics training capacity and competence across Europe, and empower researchers to use ELIXIR's services and tools.
+
+One service offered by the Training Platform is TeSS, the training registry for the ELIXIR community. Together with ELIXIR France and ELIXIR Slovenia, VIB as lead node for ELIXIR Belgium is engaged in consolidating quality and impact of the TeSS training resources (2022-23) (https://elixir-europe.org/internal-projects/commissioned-services/2022-trp3).
+
+The Training eSupport System was developed to help trainees, trainers and their institutions to have a one-stop shop where they can share and find information about training and events, including training material. This way we can create a catalogue that can be shared within the community. How it works is what we are going to find out in this course.
+
+*About VIB and VIB Technologies*
+
+VIB is an entrepreneurial non-profit research institute, with a clear focus on groundbreaking strategic basic research in life sciences and operates in close partnership with the five universities in Flanders – Ghent University, KU Leuven, University of Antwerp, Vrije Universiteit Brussel and Hasselt University.
+
+As part of the VIB Technologies, the 12 VIB Core Facilities, provide support in a wide array of research fields and housing specialized scientific equipment for each discipline. Science and technology go hand in hand. New technologies advance science and often accelerate breakthroughs in scientific research. VIB has a visionary approach to science and technology, founded on its ability to identify and foster new innovations in life sciences.
+
+The goal of VIB Technology Training is to up-skill life scientists to excel in the domains of VIB Technologies, Bioinformatics & AI, Software Development, and Research Data Management.
+
+--------------------------------------------
+
+*Editorial team for this course*
+
+Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
+
+Technical Editors: Alexander Botzki
+
+License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+```json   @JSONLD
+{
+  "@context": "https://schema.org/",
+  "@type": "LearningResource",
+  "@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+  },
+  "description": "track the versions of your code and your documentation, make your research more reproducible and more impactifull",
+  "keywords": "FAIR, Reproducibility, RDM, code, data analysis",
+  "name": "Versioning code and documentation with Git & GitHub",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "educationalLevel": "beginner",
+  "competencyRequired": "Unix command line basic knowledge",
+  "teaches": [
+    "1. Configure Git on a local machine to prepare for version control in research projects.",
+    "2. Create and manage repositories using Git commands to track changes and maintain project history.",
+    "3. Apply basic Git operations (e.g., staging, committing, pushing) to work effectively with local and remote repositories.",
+    "4. Implement branching and pull request workflows to collaborate with others on shared codebases.",
+    "5. Interpret Git logs and history to understand project evolution and troubleshoot issues.",
+    "6. Collaborate with other people in your project."
+  ],
+  "audience": "training providers",
+  "inLanguage": "en-US",
+  "learningResourceType": [
+    "tutorial"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Bruna Piereck"
+    },
+    {
+      "@type": "Person",
+      "name": "James Collier"
+    },
+    {
+      "@type": "Person",
+      "name": "Alexander Botzki"
+    }
+    {
+      "@type": "Person",
+      "name": "Tuur Muyldermans"
+    }
+  ],
+}
+```
