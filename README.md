@@ -1,8 +1,7 @@
 <!--
-
 author:   Bruna Piereck, Alexander Botzki, James Collier, Tuur Muyldermans
 email:    trainingandconferences@vib.be
-version:  2.0.0
+version:  1.0.0
 language: en
 narrator: UK English Female
 
@@ -25,10 +24,9 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
 
-@orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
+@orcid: [@0](@1)<!--class="orcid-logo-for-author-list" -->
 
 @edition: 10th 
-
 @CourseTitle: Versioning code and documentation with Git & GitHub
 
 @JSONLD
@@ -46,10 +44,10 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
   // it is not shown or rendered within LiaScript
   console.debug("added json to head")
 </script>
-
 @end
 
 -->
+
 
 # @CourseTitle
 
@@ -244,7 +242,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
       "@type": "Person",
       "name": "Alexander Botzki"
     }
-     {
+    {
       "@type": "Person",
       "name": "Tuur Muyldermans"
     }
