@@ -21,4 +21,6 @@ In this course we are not using any aliases, but you can create your own or use 
 
 ---
 
-Let's go to the [next session](https://github.com/vibbits/introduction-github/blob/master/tutorials/11_github_rstudio/tutorial.md)!
+[<img src="../images/arrows_nextchapter/next_Chapter_11-12.png" width="235" style="float: rigleft;"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/2_introduction/tutorial.md#1) 
+
+<span style='font-size: 25px'>Let's go to the [next session](https://github.com/vibbits/introduction-github/blob/master/tutorials/11_github_rstudio/tutorial.md)! </span>

@@ -211,4 +211,6 @@ Open the file `README.md` and check whether the changes have merged in.
 
 ---
 
-Let's go to the [next session](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/6_gitignore%26README/tutorial.md#1)!
+[<img src="../images/arrows_nextchapter/next_Chapter_5-6.png" width="110" style="float: rigleft;"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/2_introduction/tutorial.md#1) 
+
+<span style='font-size: 25px'> Let's go to the [next session](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/6_gitignore%26README/tutorial.md#1)! </span>

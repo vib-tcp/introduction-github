@@ -273,4 +273,7 @@ Ungit
 
 ---
 
-You can access some [reading material](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/2_introduction/tutorial.md#1) now if you want!
+
+[<img src="../images/arrows_nextchapter/next_Chapter_1-2.png" width="40" style="float: rigleft;"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/2_introduction/tutorial.md#1) 
+
+<span style='font-size: 25px'>You can access some [reading material](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/2_introduction/tutorial.md#1) now if you want! </span>

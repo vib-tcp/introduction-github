@@ -102,4 +102,6 @@ It's always good to think this through and manually add the files or folders tha
 
 ---
 
-Let's continue with the [next session](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/7_collaborating_GitHub/tutorial.md#1)!
+[<img src="../images/arrows_nextchapter/next_Chapter_7-8.png" width="170" style="float: rigleft;"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/2_introduction/tutorial.md#1) 
+
+<span style='font-size: 25px'> Let's continue with the [next session](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/7_collaborating_GitHub/tutorial.md#1)! </span>
