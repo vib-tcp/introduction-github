@@ -26,8 +26,8 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 
 @orcid: [@0](@1)<!--class="orcid-logo-for-author-list" -->
 
-@edition: 10th 
-@CourseTitle: Versioning code and documentation with Git & GitHub
+@edition: 2nd 
+@CourseTitle: Introduction to Git & GitHub
 
 @JSONLD
 <script run-once>
@@ -48,7 +48,7 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 
 -->
 
-# Versioning code and documentation with Git & GitHub
+# Introduction to Git & GitHub
 
 <section>
 
@@ -84,27 +84,19 @@ Schedule day 1:
 
 * 14h40 - Coffee break   
 
-* 14h55 - Collaborating in GitHub  
+* 14h55 - Collaborating in GitHub  & Solving Conflicts 
 
 * 17h00 - End of the day  
 
 Schedule day 2:
 
-* 09h30 - Solving Conflicts 
+* 09h30 - Experimenting Risk Free: Working with Branchs
 
 * 10h30 - Coffee break 
 
-* 10h30 - Experimenting Risk Free: Working with Branchs
+* 10h30 -  Tagging & Using the browser 
 
-* 12h30 - Lunch 
-
-* 13h00 - Tagging & Forking  
-
-* 15h00 - Coffee break 
-
-* 15h00 - Using the browser 
-
-* 17h00 - End of the day 
+* 12h30 - Lunch (End of the day)
 
 </section>
 
@@ -134,7 +126,7 @@ Schedule day 2:
 > 5. Interpret Git logs and history to understand project evolution and troubleshoot issues.
 > 6. Collaborate with other people in your project.
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 16 hours (2 days)
+> <i class="fa fa-hourglass"></i> **Time estimation**: 12 hours (1.5 days)
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the chapter ["Get ready"](./docs/tutorials/1_Get_ready_for_the_course/tutorial.md).
 >
