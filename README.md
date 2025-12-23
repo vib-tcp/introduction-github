@@ -59,7 +59,7 @@ This is the @edition edition of this workshop, jointly organised by VIB and ELIX
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
 > To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
+> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/README.md)
 
 ## General context
 
@@ -729,4 +729,5 @@ Summary of what you might need:
 ## Complementary reading (Tutorials)
 
 Check some [**chapters**](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/Git_modules.md#1) with complementary reading.
+
 You will *review* what you saw in the course and get *some extra* tips and information, such as using Rstudio on GitHub.
