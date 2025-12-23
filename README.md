@@ -170,6 +170,8 @@ Please cite as:
 
 # Chapters List
 
+Proceed to check all the chapters one-by-one
+
 ## [1. Get Ready for the course](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/01_Get_ready_for_the_course.md#1) 
 
 In this chapter you will find the step-by-step of what you need to get ready for this course. You will be guided in installing all tools that will be used and find a link to practice a bit of UNIX/LINUX command line before you join the course. 
@@ -371,3 +373,4 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ],
 }
 ```
+
