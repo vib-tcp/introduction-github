@@ -357,14 +357,15 @@ License: [![CC BY SA](docs/images.png)](https://creativecommons.org/licenses/by-
     {
       "@type": "Person",
       "name": "Alexander Botzki"
-    }
+    },
     {
       "@type": "Person",
       "name": "Tuur Muyldermans"
     }
-  ]
+   ]
 }
 ```
+
 
 
 
