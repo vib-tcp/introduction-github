@@ -132,7 +132,7 @@ Schedule day 2:
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises](./exercises/)
-> 2. [Slides](./supplementary/)  
+> 2. [Slides](./docs/presentations/)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -364,6 +364,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ],
 }
 ```
+
 
 
 
