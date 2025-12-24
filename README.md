@@ -48,7 +48,7 @@ link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-s
 
 -->
 
-# Versioning code and documentation with Git & GitHub
+# @CourseTitle
 
 <section>
 
@@ -73,37 +73,23 @@ We will introduce you to this free and open source distributed version-control s
 Schedule day 1:
 
 * 09h30 - Configurations & Introduction
-
 * 11h00 - Coffee break  
-
 * 11h15 - Routine usage part 1 (status-stage-commit) 
-
 * 13h00 - Lunch 
-
 * 14h00 - History & Comparing Versions 
-
 * 14h40 - Coffee break   
-
 * 14h55 - Collaborating in GitHub  
-
 * 17h00 - End of the day  
 
 Schedule day 2:
 
 * 09h30 - Solving Conflicts 
-
 * 10h30 - Coffee break 
-
 * 10h30 - Experimenting Risk Free: Working with Branchs
-
 * 12h30 - Lunch 
-
 * 13h00 - Tagging & Forking  
-
 * 15h00 - Coffee break 
-
 * 15h00 - Using the browser 
-
 * 17h00 - End of the day 
 
 </section>
@@ -128,10 +114,15 @@ Schedule day 2:
 > By the end of the course, learners will be able to:
 >
 > 1. Configure Git on a local machine to prepare for version control in research projects.
+>
 > 2. Create and manage repositories using Git commands to track changes and maintain project history.
+>
 > 3. Apply basic Git operations (e.g., staging, committing, pushing) to work effectively with local and remote repositories.
+>
 > 4. Implement branching and pull request workflows to collaborate with others on shared codebases.
+>
 > 5. Interpret Git logs and history to understand project evolution and troubleshoot issues.
+>
 > 6. Collaborate with other people in your project.
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 16 hours (2 days)
@@ -140,8 +131,8 @@ Schedule day 2:
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises](./docs/exercises/)
-> 2. [Slides](./docs/presentation/)  
+> 1. [Exercises](./exercises/)
+> 2. [Slides](./supplementary/)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -153,7 +144,7 @@ Schedule day 2:
 > <i class="fa fa-anchor"></i> **PURL**:  
 
 
-## Authors and Contributors
+# Authors and Contributors
 
 Authors
 
@@ -187,7 +178,7 @@ __
 [<img src="https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/images/help!.svg" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/01_Get_ready_for_the_course.md#1)
 
 
-## [2. Introduction ](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/02_introduction.md#1)
+## [2. Introduction](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/02_introduction.md#1)
 
 Find out the differences between Git and GitHub why reflecting into versioning your documents and codes. Why is Git in several cases the best approach for versioniung?
 
@@ -230,7 +221,7 @@ __
 [<img src="https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/images/class-act.png" width="150"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/05_Connecting_2_GitHub.md#1)
 
 
-## [6. READM & .gitignore - Importante files](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/06_gitignore%26README.md#1)
+## [6. READM & .gitignore - Important files](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/06_gitignore%26README.md#1)
 
 GitHub is not about intuition, is about concient choices and clear messages. Learn about README files and .gitignore files. They will make all the difference in the organization of your repositories. These are essential for a good project development.
 
@@ -241,7 +232,7 @@ __
 [<img src="https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/images/git_files.svg" width="150"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/06_gitignore%26README.md#1)
 
 
-## 7. [Collaborting](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/07_collaborating_GitHub.md#1)
+## 7. [Collaborating](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/07_collaborating_GitHub.md#1)
 
 Start a collaboration and develop together with your colleagues. As in real life, git projects and collaborations can lead to some conflicts. If both have to work in the same file, or different ideas need to be tested. Do not worry!!! In this chapter we teach you how to start the collaboration, best practices when working in a team and last but not least ... HOW TO SOLVE CONFLICTS! Only in Git, ofcourse.
 
@@ -252,7 +243,7 @@ __
 [<img src="https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/images/benevocats.png" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/07_collaborating_GitHub.md#1)
 
 
-## [8. Branchs](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/08_branches.md#1)
+## [8. Branches](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/08_branches.md#1)
 
 To work in collaboration or experiment new code or documentation desing you can creat parallel developing areas. Learn more about the application of Branchs, how to create, delete and merge them. This is a great resource to avoid breaking the working version of your project or even to just test a new idea. This step wil take you to the next level when working with and GitHub. It will add more flexibility, more organization and garantee that you can always have a functional version of your code.
 
@@ -285,7 +276,7 @@ __
 [<img src="https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/images/git_aliases.svg" width="200"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/BP_addtemplatFormating/docs/tutorials/10_Git_aliases.md#1)
 
 
-## [11. GitHub & Rstudio](https://github.com/vib-tcp/introduction-github/blob/BP_addtemplatFormating/docs/tutorials/11_github_rstudio.md)
+## [11. GitHub & RStudio](https://github.com/vib-tcp/introduction-github/blob/BP_addtemplatFormating/docs/tutorials/11_github_rstudio.md)
 
 A big developer of R ? 
 Integrate Git, GitHub and RStudio. Develope all your project in one platform and take advantage of the ready to use  buttons avoiding extra command line. 
@@ -348,7 +339,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
     "5. Interpret Git logs and history to understand project evolution and troubleshoot issues.",
     "6. Collaborate with other people in your project."
   ],
-  "audience": "training providers",
+  "audience": "life scientists",
   "inLanguage": "en-US",
   "learningResourceType": [
     "tutorial"
@@ -373,5 +364,6 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ],
 }
 ```
+
 
 
