@@ -1,0 +1,39 @@
+{
+  "title": "Versioning code and documentation with Git & GitHub",
+  "version": "v2025.10",
+  "license": "CC-BY",
+  "upload_type": "lesson",
+  "description": "<p>This course is designed for researchers and support staff who are new to version control and want to adopt best practices for managing code and collaborating on scientific projects. As research becomes increasingly computational, using free tools like Git and GitHub is essential for tracking changes, ensuring reproducibility, and working efficiently in teams. In this hands-on session, you will learn how to set up Git, manage your project history, and collaborate using GitHub. By the end of the course, you will be able to confidently use Git from the command line, create and manage repositories, and contribute to shared projects through branching and pull requests.<\/p>",
+  "keywords": [
+    "GitHub",
+    "Git",
+    "Code versioning"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "VIB",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Piereck Moura, Bruna",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-5958-0669",
+      "type": "contactperson"
+    },
+    {
+      "name": "Botzki, Alexander",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-6691-4233",
+      "type": "contactperson"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "vibtcp"
+    }
+  ]
+}
