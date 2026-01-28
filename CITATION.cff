@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this lesson, please cite it as below."
+authors:
+- given-names: Bruna
+  family-names: Piereck Moura
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+contact:
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+title: "Versioning code and documentation with Git & GitHub"
+version: v1.0.0
+doi: ~
+date-released: 2025-10-25
+keywords:
+- Code versioning
+- Git
+- GitHub
+- training material
+license: CC-BY
+repository-code: https://github.com/vib-tcp/introduction-github/
+type: lesson
+abstract: "This course is designed for researchers and support staff who are new to version control and want to adopt best practices for managing code and collaborating on scientific projects. As research becomes increasingly computational, using free tools like Git and GitHub is essential for tracking changes, ensuring reproducibility, and working efficiently in teams. In this hands-on session, you will learn how to set up Git, manage your project history, and collaborate using GitHub. By the end of the course, you will be able to confidently use Git from the command line, create and manage repositories, and contribute to shared projects through branching and pull requests."
+identifiers:
+- type: url
+  value: https://github.com/vib-tcp/introduction-github/
+  version: v2025.10
